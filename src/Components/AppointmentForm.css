@@ -1,0 +1,144 @@
+.body5
+{
+	background-color:#000;
+}
+.backbtn5
+{
+
+    margin-right: 1140px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+}
+.backbtn5:hover
+{
+    text-decoration: none;
+    background-color: rgb(128, 0, 60);
+    color: #fff;
+    
+}
+.homebtn5
+{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+}
+.homebtn5:hover
+{
+    text-decoration: none;
+    background-color: rgb(128, 0, 60);
+    color: #fff;
+
+}
+#body_header
+{
+	width:auto;
+	margin:0px auto;
+	text-align:center;
+	font-size:25px;
+}
+.form5 {
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  background: #f4f7f8;
+  border-radius: 8px;
+  margin-top: -30px;
+}
+
+.apph1 {
+  margin: 0 0 30px 0;
+  text-align: center;
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+.inp5[type="text"],
+.inp5[type="password"],
+.inp5[type="date"],
+.inp5[type="datetime"],
+.inp5[type="email"],
+.inp5[type="number"],
+.inp5[type="search"],
+.inp5[type="tel"],
+.inp5[type="time"],
+.inp5[type="url"],
+.textarea5,
+.slct5 {
+  background: rgba(255,255,255,0.1);
+  border: none;
+  resize: none;
+  font-size: 16px;
+  height: auto;
+  margin: auto;
+  outline: 0;
+  padding: 8px;
+  border-radius: 30px;
+  width: 450px;
+  background-color: #e8eeef;
+  color: black;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 20px;
+}
+
+.inp5[type="radio"],
+.inp5[type="checkbox"]
+
+{
+  margin: 0 4px 8px 0;
+}
+
+.slct5 {
+  padding: 6px;
+  height: 32px;
+  border-radius: 2px;
+}
+
+.bttn5 {
+  padding: 19px 39px 18px 39px;
+  color: #FFF;
+  background-color: #4bc970;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  cursor:pointer;
+  width: 100%;
+  border: 1px solid #3ac162;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin-bottom: 10px;
+}
+.bttn5:hover{
+background-color:#000000;
+color:#FFFFFF
+}
+
+.fldset5 {
+  margin-bottom: 30px;
+  border: none;
+}
+
+.label5 {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.label5.light {
+  font-weight: 300;
+  display: inline;
+}
+
+
+
+ 
