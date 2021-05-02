@@ -19,6 +19,8 @@ import Appointmentform from './Components/AppointmentForm';
 import PatientDashboard from './Components/PatientDashboard';
 import PatientDashboard2 from './Components/PatientDashboard2';
 import PatientDashboard3 from './Components/PatientDashboard3';
+import PatientDashboard4 from './Components/PatientDshboard4'
+
 
 function App() {
   return (
@@ -42,6 +44,7 @@ function App() {
 <Route path="/patientdashboard" component={PatientDashboard}></Route>
 <Route path="/patientdashboard2" component={PatientDashboard2}></Route>
 <Route path="/patientdashboard3" component={PatientDashboard3}></Route>
+<Route path="/patientdashboard4" component={PatientDashboard4}></Route>
 
 
 </Switch>

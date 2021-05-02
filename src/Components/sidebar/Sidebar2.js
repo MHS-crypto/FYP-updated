@@ -1,4 +1,4 @@
-import "./Sidebar.css";
+import "./Sidebar2.css";
 import logo from "../../assets/logo.png";
 import { Link } from "react-router-dom";
 

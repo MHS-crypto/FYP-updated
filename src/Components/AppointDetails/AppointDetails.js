@@ -3,9 +3,14 @@ import { useState,useEffect } from "react";
 import {useHistory} from 'react-router-dom';
 
 
+
+
+
 const ApointDetails = () => {
 
-    const history = useHistory();
+
+
+   const history = useHistory();
     
     const [userData,setUserData] = useState({});
     //user authentication
@@ -37,16 +42,19 @@ const ApointDetails = () => {
         }
     }
 
+   
 
     useEffect(() => {
     callAboutPage();
     }, [])
+
+    
+
+    
 return(
      <div>
-        <h1>Appointment Details</h1>  
-        
-        
-        
+        <h1>Appointment Details</h1> 
+      
     </div> 
          
 );  
